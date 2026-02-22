@@ -25,7 +25,7 @@ export function About(){
         </div>
         <div className="flex flex-col justify-center items-center xl:flex-row xl:items-start gap-x-32">
           <Image
-            src='/eu2.svg'
+            src='/eu3.svg'
             alt="Foto do Gabriel Mauricio"
             width={383}
             height={344}

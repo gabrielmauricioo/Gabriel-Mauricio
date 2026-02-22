@@ -19,7 +19,7 @@ export function Hero() {
   }
 
   const handleDownload = () =>  {
-    downloadFile('/curriculo-gabriel.pdf'); 
+    downloadFile('/gabriel-mauricio.pdf'); 
   };
 
   return (
@@ -56,7 +56,7 @@ export function Hero() {
             </div>
           </div>
           <Image
-            src='/eu.svg'
+            src='/eu4.svg'
             width={460}   
             height={479}  
             alt="Foto do Gabriel Mauricio"
