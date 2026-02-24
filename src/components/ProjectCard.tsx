@@ -26,7 +26,7 @@ export const projectData = [
     category: 'Dashboard',
     name: 'Dashboard CRM',
     description: 'O projeto foi estruturado para gerar insights estratégicos sobre retenção, faturamento e performance de campanhas.',
-    link:'https://app.powerbi.com/view?r=eyJrIjoiNjY3NjRjMDctZDRhZC00YmRiLTk4NWQtZmJkOGMxYzk4MGNkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9',
+    link:'https://app.powerbi.com/view?r=eyJrIjoiOWQ0YWZiODEtZTZkNS00MjBmLThjNzQtN2ViZjA3NWU1NzhmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9',
     github: '/'
   },
   {
