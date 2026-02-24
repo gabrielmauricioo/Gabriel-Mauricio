@@ -11,13 +11,13 @@ export function Footer(){
       <GridContainer>
         <div className="p-10 flex flex-col items-center justify-center">
           <div className="flex  gap-x-5 mb-4" >
-            <Link href='/https://www.linkedin.com/in/gabrielmauriciooo/'>
+            <Link href='https://www.linkedin.com/in/gabrielmauriciooo/'>
               <FontAwesomeIcon icon={faLinkedinIn} className="w-[24px] h-[24px] text-white hover:text-orange-main transition-all ease-in" />
             </Link>
             <Link href='/'>
               <FontAwesomeIcon icon={faGithub} className="w-[24px] h-[24px] text-white hover:text-orange-main transition-all ease-in" />
             </Link>
-            <Link href='/'>
+            <Link href='https://github.com/gabrielmauricioo'>
              <FontAwesomeIcon icon={faWhatsapp} className="w-[24px] h-[24px] text-white hover:text-orange-main transition-all ease-in" />
             </Link>
           </div>
