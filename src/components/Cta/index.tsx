@@ -16,7 +16,7 @@ export function Cta(){
     <section className="">
       <GridContainer>
         <div className="flex flex-col items-center mb-2">
-          <h2 className="text-2xl xl:text-3xl max-w-[780px] text-center mb-8 font-bold mt-20">Pronto para transformar suas ideias em realidade Estou aqui para ajudar.</h2>
+          <h2 className="text-2xl xl:text-3xl max-w-[780px] text-center mb-8 font-bold mt-20">Transformando dados em soluções inteligentes. Estou aqui para ajudar.</h2>
           <Link href='/'>
             <Button 
               className="flex items-center bg-orange-main rounded-3xl text-lg xl:text-xl 
