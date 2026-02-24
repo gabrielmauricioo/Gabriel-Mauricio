@@ -38,7 +38,7 @@ export function Works(){
             <h2 className="text-3xl font-semibold">Últimos projetos</h2>
           </div>
           <p className="mb-6 text-lg text-slate-800 xl:text-left text-center "> Confira alguns dos projetos desenvolvidos por Gabriel Mauricio, que destacam sua experiência e habilidades.</p>
-          <Link href='https://www.psimaiasilva.site/' target="blank">
+          <Link href='https://app.powerbi.com/view?r=eyJrIjoiOWQ0YWZiODEtZTZkNS00MjBmLThjNzQtN2ViZjA3NWU1NzhmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9' target="blank">
             <Button 
             className="bg-orange-main rounded-3xl text-base xl:text-xl p-6 hover:text-white transition-colors ease-in delay-90"
             variant='outline'
