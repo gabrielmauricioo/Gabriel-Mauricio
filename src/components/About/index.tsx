@@ -54,7 +54,7 @@ export function About(){
                     <div className="flex flex-col gap-y-2">
                       <div className="text-orange-main">Idiomas falados</div>
                       <div className="border-b border-border"></div>
-                      <div>English, Spanish and Portugues</div>
+                      <div className="text-slate-800 text-2sm">Português - Nativo  |  Espanhol - C1  |  Inglês - A2</div>
                     </div>
                   </div>
                 </TabsContent>

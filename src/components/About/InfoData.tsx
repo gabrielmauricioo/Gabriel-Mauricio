@@ -16,18 +16,18 @@ export const infoDatas = [
     icon: <FontAwesomeIcon icon={faEnvelope} />,
     text: 'mauriciorjgabriel@gmail.com'
   },
-  {
-    icon: <FontAwesomeIcon icon={faCalendar} />,
-    text: '24/09/1998'
-  },
+  // {
+  //   icon: <FontAwesomeIcon icon={faCalendar} />,
+  //   text: '24/09/1998'
+  // },
   {
     icon: <FontAwesomeIcon icon={faGraduationCap} />,
     text: 'Analista de Dados'
   },
-  {
-    icon: <FontAwesomeIcon icon={faHouse} />,
-    text: 'Rio de Janeiro, Brasil'
-  },
+  // {
+  //   icon: <FontAwesomeIcon icon={faHouse} />,
+  //   text: 'Rio de Janeiro, Brasil'
+  // },
 ];
 
  
